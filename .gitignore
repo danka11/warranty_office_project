@@ -179,3 +179,6 @@ pyrightconfig.json
 *.sqlite3
 *.db-shm
 *.db-wal
+
+# Pycharm (JetBrains) project related settings
+.idea/
