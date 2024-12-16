@@ -182,3 +182,5 @@ pyrightconfig.json
 
 # Pycharm (JetBrains) project related settings
 .idea/
+
+src/db/warranty.db
